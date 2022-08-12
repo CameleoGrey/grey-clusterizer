@@ -2,7 +2,7 @@
 Universal clusterizer for tabular (1D) data based on deep neural networks.
 
 # Pros:
-*) The ability to work on really big data (for example, classic AgglomerativeClustering requires a huge amount of RAM)\
+*) The ability to work on really big data (millions of samples)\
 *) The ability to work on vectors of large dimensions (the larger the vectors, the more problems they create for classical metric clusterizers)\
 *) The possibility of using on new samples that the clusterizer has not yet seen (for example, good clusterers like AgglomerativeClustering, DBSCAN, OPTICS, SpectralClustering are not capable of this)\
 *) Accounting for nonlinear relationships between features\
