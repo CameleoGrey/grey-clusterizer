@@ -37,7 +37,7 @@ conda activate grey-clusterizer
 pip install -r requirements.txt
 ```
 
-#Citation
+# Citation
 @inproceedings{li2021contrastive,
   title={Contrastive clustering},
   author={Li, Yunfan and Hu, Peng and Liu, Zitao and Peng, Dezhong and Zhou, Joey Tianyi and Peng, Xi},
