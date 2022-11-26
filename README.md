@@ -20,7 +20,6 @@ Adaptation of contrastive clustering approach (see citation) for tabular (1D) da
 *) Problems of reproducibility of experiments (the results are slightly different each time with the same settings)
 
 # Future plans:
-*) Make tests on ImageNet (to what extent clusters correlate with classes predicted by a well-trained classification model)\
 *) Add the ability to automatically determine the optimal number of clusters
 
 # Comparison
