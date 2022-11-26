@@ -36,3 +36,14 @@ conda create -n grey-clusterizer python=3.9
 conda activate grey-clusterizer
 pip install -r requirements.txt
 ```
+
+#Citation
+@inproceedings{li2021contrastive,
+  title={Contrastive clustering},
+  author={Li, Yunfan and Hu, Peng and Liu, Zitao and Peng, Dezhong and Zhou, Joey Tianyi and Peng, Xi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={10},
+  pages={8547--8555},
+  year={2021}
+}
