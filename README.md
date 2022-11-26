@@ -1,5 +1,5 @@
 # grey-clusterizer
-Universal clusterizer for tabular (1D) data based on deep neural networks.
+Adaptation of contrastive clustering approach (see citation) for tabular (1D) data based on deep neural networks.
 
 # Pros:
 *) The ability to work on really big data (millions of samples)\
